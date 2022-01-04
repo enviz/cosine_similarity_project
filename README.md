@@ -5,4 +5,4 @@ Project submitted by Natrajvikram Sivabalasubramanian , AIS (EPITA batch Fall 20
 Input: Two sentences
 Output: Similarity between two sentences using cosine similarity measure
 
-Comments and markdown cells are mentioned in the notebook.
+Comments and markdown cells are included in the notebook.
