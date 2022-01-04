@@ -1,4 +1,4 @@
-# cosine_similarity_project
+# cosine similarity project
 
 Project submitted by Natrajvikram Sivabalasubramanian , AIS (EPITA batch Fall 2021)
 
